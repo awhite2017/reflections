@@ -1,0 +1,23 @@
+subl lesson_1_reflections.txt # launch sublime with file called lesson_1_reflections.txt (you can replace subl with another editor here if you prefer a different one)
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+This means that you don't have to look through all of your code, you can just search what is wrong. It saves you plenty of time with just as short term commitment.
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros: you can choose to create the commit when you want. Then, you don't have to store so much data with all these different commits. Cons: You might not create a commit and all you data is then lost.
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+It is beneficial in some cases to have git save multiple files in one commit. If you have two separate things that relate to eachother, you would want both to change together rather than having to change both separately. Also, these two "things" could affect eachother, so they need to be related.
+How might using version control make you more confident to make changes that could break something?
+If you have many places where you can save your work, you can choose to save before you want to make those risky changes. Then if your change doesn't work, you can just start from your last save.
+How can you use the commands git log and git diff to view the history of files?
+I am confused by this part.
+Now that you have your workspace set up, what do you want to try using Git for?
+I can use Git for making shortcuts for finding parts of my code that could be very long.
+	
+Click here to Reply or Forward
+Using 1.62 GB
+Program Policies
+Powered by
+Google
+Last account activity: in 9 hours
+Open in 1 other location  Details
+	
+	
