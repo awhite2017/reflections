@@ -1,0 +1,36 @@
+Lesson 2:
+What happens when you initialize a repository? Why do you need to do it?
+When you initiate a repository, you get to see its code to work on the repository. You need to do it so you can actually work on your repository. If it isn't initiated, you won't be able to acces it.
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+The staging allows you to specify what changes should be commited. This gives you more freedom. Now you can add files one at a time to the staging area. 
+You can now bundle the contents in the staging area into one commit.
+How can you use the staging area to make sure you have one commit per logical
+change?
+The staging area allows you to bundle your files so you have one commit per logical change. I think you can then change your work in just the saging area so you
+have different versions of the file.
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+If you have just a linear banch, you can fix bugs, add new features and update docs
+easily. If you want to make an experimental feature you can branch out your commits and in case it doesn't work, you can use your originial commit (fix version). By making multiple branches (not linear) you can organize your original files from your experimental ones.
+You also would want to use git branch for public showing because you can show your made branch for production.
+How do the diagrams help you visualize the branch structure?
+With the diagrams, you know how to see which commits will be reachable. You will also be able to see how easy it will be to add a commit to your main commit branch. If it isn't easy to add, I think you cann connect those branches back to eachother at the point you want. This allows for a shortcut access to the main commit branch.
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+You would have to delete other files that weren't in both of your separate files. I thinks this can be bad if you want to keep your files that dont exist in both the off-branched files. But actually, now after seeing the next video. You can create an offbranch commit from the original commit branch that connects the unoriginal branch and the original. This is like two parents making a kid.
+You can have all the changes from the unorigional commits and the original commits combined.
+We can also find clues based off of looking at the original and two separate files that determine which files we want to keep. For example, if there was code in the original file, but it wasnt in one of the off-branched fiels, we wouldn't want that code back because it became uncessesary. look at lesson 2, 24/35
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+Automatic merging allows you to have all of your work merged together. This can be beneficial because you don't need to worry about any lost data. The con of this would be that you might want some you your off-branch data to just be experimental and not just part of your final production. So the automatic wouldn't give you much freedom. Luckily you must merge manually.
+	
+Click here to Reply or Forward
+Using 1.62 GB
+Program Policies
+Powered by
+Google
+Last account activity: in 9 hours
+Open in 1 other location  Details
+	
+	
